@@ -179,7 +179,7 @@ use_gzip = true
 
 ### Reload configures without frps stopped
 
-If your want to add a new reverse proxy and avoid restarting frps, you can use this function:
+If you want to add a new reverse proxy and avoid restarting frps, you can use this function:
 
 1. `dashboard_port` should be set in frps.ini:
 
